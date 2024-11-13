@@ -17,4 +17,4 @@ The dataset used in this project is sourced from Kaggle. It includes the followi
 - price: Price of the flight
 
 ## Evaluation
-Evaluate the performance of the trained model using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared. Ensure the model is reliable and accurate in predicting flight prices.
+Evaluate the performance of the trained model using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared. 
